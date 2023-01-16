@@ -2,6 +2,5 @@
 
 Hello  my name is Manuel Revuelto and...
 
-- 🔍 I’m currently unemployed
-- 📚 I’m studying a cybersecurity specialization degree at CPIFP Los Enlaces
+- 🔍 I’m currently working
 - 📫 How to reach me: manu.revuelto1111@gmail.com
